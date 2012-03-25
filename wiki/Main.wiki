@@ -14,4 +14,4 @@ This tail program should help you viewing log views over http. It is a java weba
 
 = Documenation =
 
- * How to get it started
+ * [HowToGettingStarted How to get it started]
