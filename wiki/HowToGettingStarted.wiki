@@ -1,5 +1,3 @@
-#How to get it started
-
 = Introduction =
 
  * copy the war file to your j2ee container
