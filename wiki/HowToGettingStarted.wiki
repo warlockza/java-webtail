@@ -1,6 +1,6 @@
 = Introduction =
 
- * copy the war file to your j2ee container
+ * copy the [http://code.google.com/p/java-webtail/downloads/list war] file to your j2ee container
  * in most cases it should be automatically deployed
  * with http://yourhost/java-webtail/webtail.jsp you could display the webtail main page
 
@@ -20,3 +20,6 @@
   }}}
    Change the param-value according to your needs.
  * You have to restart/reload the server/webapp
+
+
+<g:plusone size="medium"></g:plusone>
